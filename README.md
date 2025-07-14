@@ -1,2 +1,2 @@
-# nyFirstDoc
+# myFirstDoc
 HTML page hosting
